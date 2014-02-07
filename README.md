@@ -4,14 +4,14 @@ Reglamentos Piratas
 Consolidados
 ------------
 
-  * (Estatutos de la Confederación Pirata)[EST01]
+  * [Estatutos de la Confederación Pirata][EST01]
 
 
 Borradores
 ----------
 
-  * (Tesorería de Confederación Pirata)[TES01]
-  * (Elecciones primarias piratas)[PRI01]
+  * [Tesorería de Confederación Pirata][TES01]
+  * [Elecciones primarias piratas][PRI01]
 
 
 
